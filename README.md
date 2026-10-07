@@ -116,7 +116,6 @@ The main objective of this project is to understand user engagement, session beh
 
 
 Author
-
 Ayesha Chaudhari
 
 Data Analytics Project
