@@ -3,6 +3,12 @@ Data Analytics project using SQL, Python, and Power BI
 
 #  Mobile App User Analytics
 
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
 ## Project Overview
 
 Mobile App User Analytics is a Data Analytics project focused on analyzing user behavior, sessions, events, and purchases.
